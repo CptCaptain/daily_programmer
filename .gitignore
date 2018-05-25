@@ -1,2 +1,4 @@
 tally/target/
 tally/Cargo.lock
+rabbits/target/
+rabbits/Cargo.lock

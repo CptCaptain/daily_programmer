@@ -1,0 +1,6 @@
+[package]
+name = "rabbits"
+version = "0.1.0"
+authors = ["Cpt. Captain <nilskoch94@gmail.com>"]
+
+[dependencies]
